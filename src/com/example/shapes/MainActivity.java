@@ -1,4 +1,4 @@
-package com.example.simplegraphics;  
+package com.example.shapes;  
   
 import android.os.Bundle;  
 import android.app.Activity;  

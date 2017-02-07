@@ -21,7 +21,7 @@
         android:layout_alignBaseline="@+id/editText1"
         android:layout_alignBottom="@+id/editText1"
         android:layout_alignParentRight="true"
-        android:text="Button" />
+        android:text="OK" />
 
     <EditText
         android:id="@+id/editText1"
@@ -58,7 +58,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentRight="true"
         android:layout_centerVertical="true"
-        android:text="Button" />
+        android:text="OK" />
 
     <TextView
         android:id="@+id/textView4"
@@ -77,7 +77,7 @@
         android:layout_alignBaseline="@+id/editText3"
         android:layout_alignBottom="@+id/editText3"
         android:layout_alignRight="@+id/button2"
-        android:text="Button" />
+        android:text="OK" />
 
     <EditText
         android:id="@+id/editText3"
